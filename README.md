@@ -6,12 +6,12 @@
 
 # Tech stacks
 ![image](https://github.com/bxlldev/vprofile-project-local/assets/127035655/d8199672-a8dc-433c-a236-1277a5f1c62a)
-Load Balancer => Nginx
-Java web application server => Apache Tomcat
-External Storage => NFS
-Messaging Broker => RabbitMQ
-Caching Server => Memcached
-Database Server => MySQL (MariaDB service)
+- Load Balancer => Nginx
+- Java web application server => Apache Tomcat
+- External Storage => NFS
+- Messaging Broker => RabbitMQ
+- Caching Server => Memcached
+- Database Server => MySQL (MariaDB service)
 
 
 # Technologies 
