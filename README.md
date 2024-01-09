@@ -3,6 +3,7 @@
 - JDK 11 
 - Maven 3 
 - MySQL 8
+- Vagrant v2.3.7
 
 # Tech stacks
 ![image](https://github.com/bxlldev/vprofile-project-local/assets/127035655/d8199672-a8dc-433c-a236-1277a5f1c62a)
